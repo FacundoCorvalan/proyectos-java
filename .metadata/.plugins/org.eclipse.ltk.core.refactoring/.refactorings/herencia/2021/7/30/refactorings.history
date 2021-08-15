@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;herencia.Herencia&apos; to &apos;Principal&apos;&#x0D;&#x0A;- Original project: &apos;herencia&apos;&#x0D;&#x0A;- Original element: &apos;herencia.Herencia&apos;&#x0D;&#x0A;- Renamed element: &apos;herencia.Principal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Herencia&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;herencia{Herencia.java[Herencia" matchStrategy="1" name="Principal" qualified="false" references="true" similarDeclarations="false" stamp="1627337496680" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="Sucursal"/>
+    <fullyQualifiedTypeName name="Paquete"/>
+    <fullyQualifiedTypeName name="herencia.Persona"/>
+    <fullyQualifiedTypeName name="herencia.Estudiante"/>
+    <fullyQualifiedTypeName name="java.lang.ExceptionInInitializerError"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="polimorfismo.VehiculoFurgoneta"/>
+    <fullyQualifiedTypeName name="polimorfismo.VehiculoTurismo"/>
+    <fullyQualifiedTypeName name="polimorfismo.Vehiculo"/>
+    <fullyQualifiedTypeName name="polimorfismo.VehiculoDeportivo"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Persona"/>
+    <fullyQualifiedTypeName name="Entrenador"/>
+    <fullyQualifiedTypeName name="Futbolista"/>
+    <fullyQualifiedTypeName name="Doctor"/>
+    <fullyQualifiedTypeName name="Interfaces.Persona"/>
+    <fullyQualifiedTypeName name="Interfaces.Musico"/>
+    <fullyQualifiedTypeName name="Interfaces.Estudiante"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Interfaces.MusicoEstudiante"/>
+    <fullyQualifiedTypeName name="jdk.jfr.internal.PrivateAccess"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.String"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="Proyecto.Pasajero"/>
+    <fullyQualifiedTypeName name="java.awt.Menu"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.Equals"/>
+    <fullyQualifiedTypeName name="Proyecto.AeropuertoPrivado"/>
+    <fullyQualifiedTypeName name="Proyecto.AeropuertoPublico"/>
+    <fullyQualifiedTypeName name="Proyecto.Compañia"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Proyecto.Aeropuerto"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IREM"/>
+    <fullyQualifiedTypeName name="Proyecto.Vuelo"/>
+</qualifiedTypeNameHistroy>
