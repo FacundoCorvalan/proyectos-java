@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
-    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
     <fullyQualifiedTypeName name="Sucursal"/>
     <fullyQualifiedTypeName name="Paquete"/>
     <fullyQualifiedTypeName name="herencia.Persona"/>
     <fullyQualifiedTypeName name="herencia.Estudiante"/>
     <fullyQualifiedTypeName name="java.lang.ExceptionInInitializerError"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="polimorfismo.VehiculoFurgoneta"/>
     <fullyQualifiedTypeName name="polimorfismo.VehiculoTurismo"/>
     <fullyQualifiedTypeName name="polimorfismo.Vehiculo"/>
@@ -34,8 +32,23 @@
     <fullyQualifiedTypeName name="Proyecto.AeropuertoPrivado"/>
     <fullyQualifiedTypeName name="Proyecto.AeropuertoPublico"/>
     <fullyQualifiedTypeName name="Proyecto.Compañia"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="Proyecto.Aeropuerto"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IREM"/>
     <fullyQualifiedTypeName name="Proyecto.Vuelo"/>
+    <fullyQualifiedTypeName name="com.sun.swing.internal.plaf.metal.resources.metal"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.ui.tree.BooleanTreeNodeAdapter"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Juego1"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.dtm.ref.DTMAxisIterNodeList"/>
+    <fullyQualifiedTypeName name="ejercicio1.Persona"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.rmi.server.RMIFailureHandler"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.Annotation.element_value"/>
+    <fullyQualifiedTypeName name="ejercicio2.Electrodomestico"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="ejercicio3.PuntoGeometrico"/>
+    <fullyQualifiedTypeName name="ejercicio3.Rectangulo"/>
 </qualifiedTypeNameHistroy>
